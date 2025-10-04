@@ -17,7 +17,8 @@ You are done. Now, you can create your customized dashboards.
 
 # Screenshots:
 
-![Metrices - Grafana](images\image-1.png)
+![Metrices - Grafana]<img width="1448" height="705" alt="image" src="https://github.com/user-attachments/assets/93e083e3-b88e-4998-810b-f2e7c82c11ff" />
+
 
 ![Real-time Graph showing CPU usage](images\image-2.png)
 
