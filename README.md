@@ -17,9 +17,11 @@ You are done. Now, you can create your customized dashboards.
 
 # Screenshots:
 
-![Metrices - Grafana]<img width="1448" height="705" alt="image" src="https://github.com/user-attachments/assets/93e083e3-b88e-4998-810b-f2e7c82c11ff" />
+<img width="1919" height="841" alt="image-1" src="https://github.com/user-attachments/assets/83b45bcb-c68f-4c8b-9a8a-8f3e6128601b" />
+<p align="center"><em>Metrices - Grafana</em></p>
 
+<img width="1448" height="705" alt="image" src="https://github.com/user-attachments/assets/93e083e3-b88e-4998-810b-f2e7c82c11ff" />
+<p align="center"><em>Real-time Graph showing CPU usage</em></p>
 
-![Real-time Graph showing CPU usage](images\image-2.png)
-
-![Network Upload Speed (MB/s)](images\image.png)
+<img width="1448" height="705" alt="image" src="https://github.com/user-attachments/assets/dba087e0-5d41-44ba-9162-1ee674afbae2" />
+<p align="center"><em>Network Upload Speed (MB/s)</em></p>
