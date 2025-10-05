@@ -1,6 +1,6 @@
 # Local System Monitoring
 
-This is a very simple project built with Prometheus Grafana and Windows Exporter.
+This is a simple project built with Prometheus, Grafana and Windows Exporter.
 It visualizes key system metrics (like CPU usage) from your own computer in real time.
 
 I have used Prometheus, Grafana and Windows Exporter.
@@ -10,9 +10,9 @@ I used Windows Exporter as I was working on Windows 11. You can use Node Exporte
 # How to make this project
 
 It's very simple. Download Grafana, Prometheus and Windows/Node Exporter.
-Make a simple configuration change in prometheus.yml file.
+Make a simple configuration change in the prometheus.yml file.
 Run Windows/Node exporter, Prometheus.
-Now run Grafana. In data source, add Prometheus and then the Local Host link.
+Now run Grafana. In the data source, add Prometheus and then the Local Host link.
 You are done. Now, you can create your customized dashboards.
 
 # Screenshots:
